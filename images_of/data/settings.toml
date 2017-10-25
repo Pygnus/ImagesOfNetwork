@@ -1660,6 +1660,7 @@ search = [
 ignore = [
     'bsalvador dal(i|í)',
     'el salvador',
+    'kwa(-| )zulu(-| )natal',
 ]
 whitelist = [
     'alagoas',
